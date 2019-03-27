@@ -1,1 +1,1 @@
-web: fucksearchstats
+worker: fucksearchstats
